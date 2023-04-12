@@ -1,0 +1,2 @@
+# icsCreateStrucrute
+Query T-SQL
